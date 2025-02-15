@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.q{
+    background-color: blue;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+.row{
+    margin-top: 20px;
+}
+.w{
+text-decoration: none;
+margin-bottom: 30px;
+}
+.con{
+    margin-bottom: 50px;
+}
+.r{
+    max-width: 98%;
+    border-radius: 10px;
+    border-width: 20px;
+}
+.img{
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    text-align: center;
+}
+

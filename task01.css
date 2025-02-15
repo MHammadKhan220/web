@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+.head{
+    background-color: black;
+    margin: 0px 0px 40px 0px;
+    padding: 50px 0px 50px 0px;
+    text-align:right;
+    text-decoration: none;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    border-radius: 12px;
+    border: 2px double white;
+    padding: 2px 0px 0px 0px;
+    margin: 5px;
+    
+}
+nav a:hover:not(.active){
+    background-color:blue;
+    color:wheat ;
+    /* position: fixed; */
+}
+.active{
+    background-color: green;
+    color: aliceblue;
+    /* position: fixed; */
+}
+.name{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-style: italic ;
+    text-align: center;
+    text-decoration: double underline;
+    box-sizing:content-box;
+    text-shadow: 30px;
+    background-color: azure;
+    
+}
+.desiner{
+    color:blue;
+    text-align: center;
+    text-decoration: dotted underline;
+    text-shadow: 20px;
+    padding: 5px;
+    margin: 15px;
+    background-color: azure;
+    
+}
+.developer{
+    color: rgb(53, 53, 99);
+    position: static;
+    padding: 10px;
+    justify-content: center;
+    background-color: aqua;
+    margin: auto;
+}
+.home{
+    text-align: left;
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    border: 10px solid white;
+    width: 20%;
+    padding: 20px;
+    margin: 20px;
+}
+.skill{
+    text-align: left;
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    border: 10px solid white;
+    width: 20%;
+    padding: 20px;
+    margin: 20px;
+}
+.GRAPHIC{
+    color: blue;
+    font-size: medium;
+    padding: 30px;
+    margin: 20px;
+
+}
+.full{
+    color: blue;
+    font-size: medium;
+    text-align: center;
+}
+.iam{
+    text-align: left;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px 20px 20px 20px;
+    margin: 10px;
+}
+.im{
+    text-align: left;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px 15px 100px 20px;
+  }
+  a{
+    color: black;
+    padding: 20px ;
+    margin: 60px;
+}
+.contact{
+    margin: 20px;
+    padding: 20px 20px 20px 20px;
+    background-color: antiquewhite;
+    text-align: auto;
+    color: blue;
+
+}
